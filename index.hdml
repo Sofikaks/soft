@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Meu portfólio</title>
+  </head>
+  <body></body>
+</html>
+<body>
+  <img src="img/avatar-perfil.png" alt="avatar da Sofia" srcset="" />
+  <p>Eu sou Sofia_</p>
+  <h1>Eu desenho e escuto musica </h1>
+  <p>
+    Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
+    para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
+    computacional usando HTML, CSS e JavaScript. Veja os projetos que já
+    desenvolvi!
+      </p>
+</body>
+<body>
+  <!-- código omitido -->
+  <p>Minhas habilidades</p>
+  <div>
+    <p>HTML</p>
+    <p>CSS</p>
+    <p>JavaScript</p>
+    <p>Scratch</p>
+  </div>
+</body>
